@@ -41,7 +41,7 @@ Getting Started
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/vehicle-search-app.git
+git clone https://github.com/dipesh162/vehicle-search-app
 cd vehicle-search-app
 
 2. Install Dependencies
